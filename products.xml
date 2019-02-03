@@ -1,0 +1,86 @@
+<products>
+    <product>
+        <name>goofy tee</name>
+        <img>goofy tee.png</img>
+        <price>60</price>
+        <desc>This is a very high quality t-shirt</desc>
+    </product>
+    <product>
+        <name>mana tee</name>
+        <img>mana ivy tee.png</img>
+        <price>75</price>
+        <desc>A very special t-shirt</desc>
+    </product>
+    <product>
+        <name>tiger tee</name>
+        <img>tiger tee.png</img>
+        <price>45</price>
+        <desc>A legendary t-shirt</desc>
+    </product>
+    <product>
+        <name>dj kannabiz tee</name>
+        <img>dj kannabiz tee.png</img>
+        <price>60</price>
+        <desc>A magical t-shirt</desc>
+    </product>
+	<product>
+		<name>colgate</name>
+		<img>colgate.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>ddrip</name>
+		<img>ddrip.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>dragon</name>
+		<img>dragon.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>dragonx</name>
+		<img>dragonx.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>freezy</name>
+		<img>freezy.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>icedragon</name>
+		<img>icedragon.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>key11</name>
+		<img>key11.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>smartfridge</name>
+		<img>smartfridge.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>ssmoke</name>
+		<img>ssmoke.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+	<product>
+		<name>trixter</name>
+		<img>trixter.png</img>
+		<price>40</price>
+		<desc>An insane t-shirt</desc>
+	</product>
+</products>
